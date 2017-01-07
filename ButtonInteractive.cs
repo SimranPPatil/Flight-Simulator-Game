@@ -42,7 +42,6 @@ namespace VRStandardAssets.Examples
             m_InteractiveItem.OnDoubleClick -= HandleDoubleClick;
         }
 
-
         //Handle the Over event
         private void HandleOver()
         {
