@@ -15,6 +15,6 @@ public class InteractionButton : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 	    if(m_Button.colors.normalColor == Color.green)
-        { Debug.Log("green hai re baba"); }
+        { Debug.Log("green"); }
 	}
 }
